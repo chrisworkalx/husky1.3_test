@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "lint-staged": {
-    "src/**/*.{js,vue}": [
+    ".{js,vue}": [
       "echo 123",
       "echo 888"
     ]
