@@ -8,7 +8,7 @@
     "release": "standard-version"
   },
   "lint-staged": {
-    "src/*.js": [
+    "src/**/*.js": [
       "prettier --write",
       "eslint --ext .js",
       "git add -n"
