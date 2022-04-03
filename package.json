@@ -12,6 +12,11 @@
       "echo 888"
     ]
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chrisworkalx/husky1.3_test.git"
