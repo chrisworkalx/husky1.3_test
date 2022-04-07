@@ -8,5 +8,9 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 12
   },
-  plugins: ['vue']
+  plugins: ['vue'],
+  rules: {
+    'vue/comment-directive': 'off',
+    'no-unused-vars': 'off'
+  }
 };
