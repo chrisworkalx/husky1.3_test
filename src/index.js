@@ -290,3 +290,5 @@ const option = {
 };
 
 myChart.setOption(option);
+
+console.log('hello');
