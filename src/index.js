@@ -162,11 +162,25 @@ const option = {
             val == xAxisLines[0] ||
             val == xAxisLines[xAxisLines.length - 1]
           ) {
-            return val;
+            return '{a|' + val + '}';
           } else {
-            return '';
+            return val;
           }
-        }
+        },
+        rich: {
+              a: {
+                align: 'left',
+                padding: [0, 30],
+                color: '#f40'
+              },
+              b: {
+                align: 'right'
+              },
+              c: {
+                display: 'none',
+                color: 'transparent'
+              }
+            }
       }
     }
   ],
