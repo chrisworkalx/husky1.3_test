@@ -168,19 +168,19 @@ const option = {
           }
         },
         rich: {
-              a: {
-                align: 'left',
-                padding: [0, 30],
-                color: '#f40'
-              },
-              b: {
-                align: 'right'
-              },
-              c: {
-                display: 'none',
-                color: 'transparent'
-              }
-            }
+          a: {
+            align: 'left',
+            padding: [0, 30],
+            color: '#f40'
+          },
+          b: {
+            align: 'right'
+          },
+          c: {
+            display: 'none',
+            color: 'transparent'
+          }
+        }
       }
     }
   ],
