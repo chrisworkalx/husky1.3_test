@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/chrisworkalx/husky1.3_test/compare/v2.0.0...v3.0.0) (2022-06-16)
+
+
+### Bug Fixes
+
+* 改成hello-world ([14ce8c8](https://github.com/chrisworkalx/husky1.3_test/commit/14ce8c82eb0bfa74d6478650b2d252f729f94ae5))
+
 ## [2.0.0](https://github.com/chrisworkalx/husky1.3_test/compare/v1.0.0...v2.0.0) (2022-06-16)
 
 
